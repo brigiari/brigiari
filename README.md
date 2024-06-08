@@ -1,6 +1,6 @@
 ## Hi there!
-I'm a medical doctor specializing in Medical Statistics and Biometrics   
-@ University of Padova, Dep. Cardiac, Thoracic, Vascular Sciences and Public Health   
+I'm a medical doctor specializing in Medical Statistics and Biometrics @ University of Padova  
+Dep. Cardiac, Thoracic, Vascular Sciences and Public Health   
 Unit of Biostatistics, Epidemiology and Public Health.
 
 My interests are:
