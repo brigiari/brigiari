@@ -7,7 +7,7 @@ My interests are:
 - Clinical epidemiology
 - R programming
 - Data science
-- :bike: Cycling
+- :biking_woman: Cycling
 
 How to reach me: [LinkedIn](https://www.linkedin.com/in/brigiari/)
 <!--
