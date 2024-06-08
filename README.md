@@ -1,6 +1,11 @@
 ## Hi there!
-I'm a medical doctor specializing in medical statistics and biometrics @ University of Padova, Dep. Cardiac, Thoracic, Vascular Sciences and Public Health, Unit of Biostatistics, Epidemiology and Public Health.
+I'm a medical doctor specializing in medical statistics and biometrics 
+@ University of Padova, Dep. Cardiac, Thoracic, Vascular Sciences and Public Health, Unit of Biostatistics, Epidemiology and Public Health.
 
+My interests are:
+- Clinical epidemiology
+- R programming
+- Cycling
 <!--
 **brigiari/brigiari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
