@@ -6,9 +6,10 @@ Unit of Biostatistics, Epidemiology and Public Health.
 My interests are:
 - Clinical epidemiology
 - R programming
+- Data science
 - Cycling
 
-How to reach me: [email](gloria.brigiari@ubep.unipd.it), [LinkedIn](https://www.linkedin.com/in/brigiari/)
+How to reach me: [LinkedIn](https://www.linkedin.com/in/brigiari/)
 <!--
 **brigiari/brigiari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
