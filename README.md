@@ -1,5 +1,5 @@
 ## Hi there!
-My name is Gloria and I am MD, resident in Medical Statistics and PhD student in Biostatistics and Clinical Epidemiology @ University of Padova 
+My name is Gloria and I am MD, specialist in Medical Statistics and PhD student in Biostatistics and Clinical Epidemiology @ University of Padova 
 Dep. Cardiac, Thoracic, Vascular Sciences and Public Health   
 Unit of Biostatistics, Epidemiology and Public Health
 
