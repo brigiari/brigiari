@@ -1,7 +1,8 @@
 ## Hi there!
-My name is Gloria and I am MD, specialist in Medical Statistics and PhD student in Biostatistics and Clinical Epidemiology @ University of Padova 
-Department of Cardiac, Thoracic, Vascular Sciences and Public Health   
-Unit of Biostatistics, Epidemiology and Public Health
+My name is Gloria and I am a medical doctor with expertise in biostatistics and artificial intelligence, dedicated to advancing predictive and translational research in healthcare. My work focuses on developing and validating clinical models for risk stratification, cancer staging, and outcome prediction, integrating statistical rigor with real-world clinical insight, often within international collaborations. I am passionate about bridging clinical knowledge, statistical methods, and AI innovation to advance translational medicine and support evidence-based healthcare decisions.
+
+@ Unit of Biostatistics, Epidemiology and Public Health, Department of Cardiac, Thoracic, Vascular Sciences and Public Health, University of Padova    
+
 
 My interests are:
 - Clinical epidemiology
